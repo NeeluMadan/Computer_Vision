@@ -1,6 +1,5 @@
 %% CRV_WS1718_10_MyActiveContour
 % name : Neelu Madan
-% student number : 3053086
 
 %% Init
 clear all;

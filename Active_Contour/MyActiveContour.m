@@ -1,6 +1,5 @@
 %% CRV_WS1718_10_MyActiveContour
 % name : Neelu Madan
-% student number : 3053086
 
 function [ x, y ] = MyActiveContour( I, X0, Y0, N, SIGMA )
 %MYACTIVECONTOUR performs simple contour extraction

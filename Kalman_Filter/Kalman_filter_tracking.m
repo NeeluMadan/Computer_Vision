@@ -1,6 +1,5 @@
-%% CRV_WS1718_27_ImageSequenceAnalysisKalman
+%% CRV_ImageSequenceAnalysisKalman
 % name : Neelu Madan
-% student number : 3063085
 
 %% clean up
 clear all;

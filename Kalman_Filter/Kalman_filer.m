@@ -1,6 +1,5 @@
-%% CRV_WS1718_26_KalmanFilterParabola
+%% CRV_KalmanFilterParabola
 % name : Neelu Madan
-% student number : 3063085
 
 %% clean up
 clear all;
